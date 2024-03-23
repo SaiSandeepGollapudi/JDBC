@@ -5,7 +5,6 @@ import java.util.*;
 import java.sql.*;
 
 
-
 public class DML {
     public static void main(String[] args) throws Exception {
         // Load the JDBC driver

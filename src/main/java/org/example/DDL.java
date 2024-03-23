@@ -4,7 +4,6 @@ import java.util.*;
 
 import java.sql.*;
 
-
 class DDL {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         // Load the JDBC driver

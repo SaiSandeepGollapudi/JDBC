@@ -17,7 +17,6 @@ class DatabaseStudents {
         ResultSet resultSet = statement.executeQuery("select * from students");
 
 
-
         // Iterate over the result set to retrieve each row of data
         while (resultSet.next()) {
 
